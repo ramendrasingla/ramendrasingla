@@ -34,7 +34,7 @@ A chatbot leveraging NLP and vector search to answer user queries about stocks.
 ---
 
 ## ✍️ **Latest Blogs**
-- [Data Engineering with Rust]([https://medium.com/p/data-with-rust](https://levelup.gitconnected.com/data-engineering-with-rust-0a3a0860bda6?sk=7b7ed6f1f3298194929ae427dfd80cc3))
+- [Data Engineering with Rust](https://levelup.gitconnected.com/data-engineering-with-rust-0a3a0860bda6?sk=7b7ed6f1f3298194929ae427dfd80cc3)
 - [Enhancing Title Generation in LLMs Using Reinforcement Learning](https://levelup.gitconnected.com/enhancing-title-generation-in-llms-using-reinforcement-learning-e4bdc535c011?sk=fd39245f2169ebaa077b6056d28794f7)
 - [Harnessing The Power of LLMs to Gain Product Insights](https://pub.towardsai.net/harnessing-the-power-of-llms-to-gain-product-insights-ec036bbe51c7)
 
