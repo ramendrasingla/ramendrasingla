@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Ramendra Singhla! 👋
 
-<!--
-**ramendrasingla/ramendrasingla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **ML Engineer | Data Enthusiast | Rust Advocate**
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio! I specialize in creating large-scale data and model-heavy solutions, optimizing pipelines, and productionizing AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 **What I’m Working On**
+- Building ML models with **Rust** for performance and scalability.
+- Exploring **Vision Transformers** and benchmarking Rust vs Python.
+- Creating AI-powered stock market chatbots using **RAG pipelines**.
+
+---
+
+## 🚀 **Featured Projects**
+### [🧠 RL-LLM Title Generator](https://github.com/ramendrasingla/RL-LLM-Based-Title-Generator)
+Enhancing title generation in LLMs with reinforcement learning to create human-like and attention-grabbing titles.
+
+### [🦀 ML Algorithms in Rust](https://github.com/ramendrasingla/ml_algorithms_in_rust)
+Implementing machine learning algorithms using the Rust programming language. The aim of this repository is to explore the performance benefits and challenges of building ML models in Rust, focusing on safety, speed, and scalability.
+
+### [📊 Stock Market Chatbot](https://github.com/ramendrasingla/stock-market-chatbot)
+A chatbot leveraging NLP and vector search to answer user queries about stocks.
+
+---
+
+## 📚 **Skills**
+- **Languages:** Python, Rust, SQL, PySpark
+- **Frameworks:** PyTorch, Hugging Face, Spark
+- **Tools:** MLflow, Airflow, Power BI
+- **Specialties:** ML Engineering, MLOps, Large-Scale ML, CI/CD
+
+---
+
+## ✍️ **Latest Blogs**
+- [Data Engineering with Rust]([https://medium.com/p/data-with-rust](https://levelup.gitconnected.com/data-engineering-with-rust-0a3a0860bda6?sk=7b7ed6f1f3298194929ae427dfd80cc3))
+- [Enhancing Title Generation in LLMs Using Reinforcement Learning](https://levelup.gitconnected.com/enhancing-title-generation-in-llms-using-reinforcement-learning-e4bdc535c011?sk=fd39245f2169ebaa077b6056d28794f7)
+- [Harnessing The Power of LLMs to Gain Product Insights](https://pub.towardsai.net/harnessing-the-power-of-llms-to-gain-product-insights-ec036bbe51c7)
+
+---
+
+## 💬 **Let’s Connect**
+- **LinkedIn:** [Ramendra Singhla](https://linkedin.com/in/ramendrasingla)
+- **Medium:** [@ramendrasingla](https://medium.com/@ramendrasingla)
+- **X:** [@ramendrasingla](https://x.com/@singla_ram99)
