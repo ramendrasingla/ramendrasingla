@@ -1,4 +1,4 @@
-# Hi, I'm Ramendra Singhla! 👋
+# Hi, I'm Ramendra Singla! 👋
 
 🎓 **ML Engineer | Data Enthusiast | Rust Advocate**
 
