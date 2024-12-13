@@ -43,4 +43,4 @@ A chatbot leveraging NLP and vector search to answer user queries about stocks.
 ## 💬 **Let’s Connect**
 - **LinkedIn:** [Ramendra Singhla](https://linkedin.com/in/ramendrasingla)
 - **Medium:** [@ramendrasingla](https://medium.com/@ramendrasingla)
-- **X:** [@ramendrasingla](https://x.com/@singla_ram99)
+- **X:** [@singla_ram99](https://x.com/@singla_ram99)
