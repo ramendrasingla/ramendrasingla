@@ -1,15 +1,15 @@
 # Hi, I'm Ramendra Singla! 👋
 
-🎓 **ML Engineer | Data Enthusiast | Rust Advocate**
+🎓 **ML Engineer | Data Scientist**
 
 Welcome to my GitHub portfolio! I specialize in creating large-scale data and model-heavy solutions, optimizing pipelines, and productionizing AI applications.
 
 ---
 
 ## 🔭 **What I’m Working On**
-- Building ML models with **Rust** for performance and scalability.
-- Exploring **Vision Transformers** and benchmarking Rust vs Python.
+- **Building a community dedicated to sharing knowledge and making the complex world of AI more approachable and less overwhelming!**
 - Creating AI-powered stock market chatbots using **RAG pipelines**.
+- Building ML models with **Rust** for performance and scalability.
 
 ---
 
