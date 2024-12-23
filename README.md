@@ -7,9 +7,8 @@ Welcome to my GitHub portfolio! I specialize in creating large-scale data and mo
 ---
 
 ## 🔭 **What I’m Working On**
-- **Creating a community to simplify and share knowledge in AI!**
-- Creating AI-powered stock market chatbots using **RAG pipelines**.
-- Building ML models with **Rust** for performance and scalability.
+- **Creating a community to breakdown complex(and boring 🥱) topics and share knowledge on AI!**
+- **Building an AI product!!! (Stay Tuned...)**
 
 ---
 
